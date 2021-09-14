@@ -1,0 +1,1 @@
+please read the input and the spells from the "input.txt" and "spells.txt" attached files respectively.
